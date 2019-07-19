@@ -1,0 +1,10 @@
+node_modules/
+logs/
+.DS_Store
+**/.DS_Store
+rev/
+public/
+views/
+dist/
+.vscode/
+package-lock.json
